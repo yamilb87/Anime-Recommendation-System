@@ -1,0 +1,13 @@
+ipywidgets
+Pillow
+numpy
+pandas
+matplotlib
+seaborn
+pywaffle
+wordcloud
+missingno
+openpyxl
+Jinja2
+scikit-learn
+scipy
