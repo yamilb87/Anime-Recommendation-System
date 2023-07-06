@@ -1,4 +1,4 @@
-![GitHub repo size](https://img.shields.io/badge/repo_size-134_mb-blue?logo=files&logoColor=yellow) 
+![GitHub repo size](https://img.shields.io/badge/repo_size-135_mb-blue?logo=files&logoColor=yellow) 
 ![GitHub repo file count](https://img.shields.io/badge/files-7_files-blue?logo=files&logoColor=yellow)
 
 ---
@@ -53,6 +53,7 @@
          * Contexto y Motivación del proyecto.
          * Hipótesis y preguntas de interés.
          * Breve Exploración de Datos.
+         * Modelos de Motor de búsqueda aplicados.
          * Insights y Recomendaciones.
      
        * [_Relevo fitro_user_id.xlsx_](Docs/Relevo%20fitro_user_id.xlsx)
